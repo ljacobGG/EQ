@@ -1,0 +1,81 @@
+Especificaciones para la Aplicación de Visualización de Ideas (Holística e Interconexión)
+
+Objetivo:
+Crear una aplicación interactiva que permita visualizar de manera dinámica y animada el concepto de interconexión y holística. La aplicación debe representar una "rueda holística" donde los nodos y aristas se integran y reorganizan conforme se gira la rueda.
+
+Elementos Clave:
+
+Rueda Holística:
+
+Un círculo azul representa el "sentido".
+
+Dentro del círculo deben estar los nodos.
+
+Las conexiones entre nodos (aristas) deben ser de color rojo.
+
+Los nodos deben estar en el perímetro del círculo azul.
+
+Línea de Tiempo (Referencia de Nodos):
+
+Debe estar fija en la parte inferior de la pantalla.
+
+Debe contener los números 1, 2, 3... hasta 10.
+
+Indica el número de nodos actuales en la rueda.
+
+Conforme se gira la rueda, debe marcar el número actual de nodos.
+
+Interacción y Animaciones:
+
+La rueda debe poder girar manualmente.
+
+Cuando la rueda gira hacia adelante, nuevos nodos deben integrarse visualmente desde la línea de tiempo hacia la rueda.
+
+Cuando la rueda gira hacia atrás, los nodos deben regresar a la línea de tiempo.
+
+Las conexiones entre nodos deben reorganizarse dinámicamente con animaciones fluidas.
+
+Todos los nodos deben estar interconectados entre sí.
+
+Cantidad de Nodos:
+
+La rueda debe poder manejar hasta 30 nodos.
+
+Cada nodo nuevo debe integrarse al perímetro del círculo azul.
+
+Visualización Dinámica:
+
+La animación debe mostrar claramente la transición de los nodos desde la línea de tiempo hasta la rueda.
+
+Los nodos deben reorganizarse visualmente para mantenerse distribuidos uniformemente en el perímetro del círculo.
+
+Las conexiones deben actualizarse conforme se agregan o eliminan nodos.
+
+Experiencia de Usuario:
+
+Tamaño adecuado de la rueda para que se vea en pantalla sin obstrucciones.
+
+Los elementos deben ser fácilmente distinguibles.
+
+La interacción debe ser fluida y sin retrasos.
+
+Resumen de Mejoras y Cambios Solicitados:
+
+Reducir el tamaño de la rueda para mejorar visibilidad.
+
+Asegurar que los nodos estén dentro del perímetro del círculo azul.
+
+Fijar la línea de tiempo para que no se mueva con la rueda.
+
+Animación donde los nodos "salen" de la línea y se unen a la rueda.
+
+Hacer que la rueda gire correctamente con animación fluida.
+
+Ajustar el espaciado de los números en la línea de tiempo para mayor claridad.
+
+Implementar una distribución dinámica de nodos en el perímetro del círculo.
+
+Aumentar el límite de nodos a 10.
+
+Resultado Esperado:
+Una aplicación visualmente clara, interactiva y animada que permita visualizar la integración progresiva de nodos y sus interconexiones a medida que se gira la rueda holística.
